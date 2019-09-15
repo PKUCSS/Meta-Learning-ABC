@@ -189,7 +189,7 @@ See: [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.
 
 ### 2.4 Compare and Extend  
 
-![1568545357354](C:\Users\css\AppData\Roaming\Typora\typora-user-images\1568545357354.png) 
+![59e96760f45281a9076ca1dceaf4796.png](http://ww1.sinaimg.cn/large/006aGu85ly1g70fn58yp8j31520crmyc.jpg)
 
 ### 2.5 Bayesian meta-learning  
 
